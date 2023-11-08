@@ -1,2 +1,2 @@
 # Numerical-Optimization-Algorithms
-Implementation of numerical optimization algorithms 
+Implementation of numerical optimization algorithms from scratch

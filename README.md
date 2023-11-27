@@ -3,11 +3,6 @@
 
 Implementation of numerical optimization algorithms from scratch  
 
-Algorithms implemented
-1. Gradient descent
-
-
-
 
 ## Results
 
